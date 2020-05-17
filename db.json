@@ -1,3 +1,112 @@
 {
-  "name":"pradhuman"
+    "DELHI":[
+        {
+            "name":"Vishal Medical Store",
+            "address":" Mother Dairy Road, New Patpar Ganj Rd, Main Market, Block Wa, Nanakpura, Shakarpur, New Delhi, Delhi 110092"
+        },
+        {
+            "name":"Chaturbhuj & Brothers",
+            "address":"G-45, Connaught Cir, Block G, Connaught Place, New Delhi, Delhi 110001"
+        },
+        {
+            "name":"Delhi Medical Store",
+            "address":"Shop No.792,Indra Chowk,Main Jaffrabad Road, Jafrabad, Shahdara, Delhi, 110053"
+        },
+        {
+            "name":"Deep Medical Store",
+            "address":"6, Tilak Nagar Rd, Old Market, Mukhram Garden, Block 16, Tilak Nagar, New Delhi, Delhi 110018"
+        },
+        {
+            "name":"Aggarwal Medical Store",
+            "address":"opp. MCD Park, Block A1, Chhatarpur, New Delhi, Delhi 110074"
+        }
+    ],
+    "MUMBAI":[
+        {
+            "name":"GENERIC MEDICAL STORES",
+            "address":"Shop No 5, Kalyan Bhavan, Charni Road, Jss Rd, Girgaon, Mumbai, Maharashtra 400004"
+        },
+        {
+            "name":"Bandra Medical Stores",
+            "address":"139 60/B, Hill Road, next to Union Bank of India, Bandra West, Mumbai, Maharashtra 400050"
+        },
+        {
+            "name":"Arihant Medical & General Stores",
+            "address":"Shop No.2,Bhardawadi Naka, Opp. Tarun Matching Centre, Off J.P.Road, Andheri West, Mumbai, Maharashtra 400058"
+        },
+        {
+            "name":"Khar Medical Store",
+            "address":"Mehta Building, Chitrakar Dhurandhar Rd, Near Rail Way Station, Khar, Ram Krishna Nagar, Khar West, Mumbai, Maharashtra 400052"
+        },
+        {
+            "name":"Rakhangis Medical Stores",
+            "address":"7, Himalaya Co-op Hsg Society, Next to Flora Restaurant Worli Seaface, Mumbai, Maharashtra 400018"
+        }
+    ],
+    "BANGALORE":[
+        {
+            "name":"Ram Medical Stores",
+            "address":"66, Dharmaraya Swamy Temple Rd, Medarpet, Kumbarpet, Ganigarpet, Nagarathpete, Bengaluru, Karnataka 560002"
+        },
+        {
+            "name":"Maruthi Medical Store",
+            "address":"Panathur Main Road, Kadubisanahalli, पनाथुर, Car Bangalore, Munireddy Layout, Kadubeesanahalli, Panathur, Bengaluru, Karnataka 560103"
+        },
+        {
+            "name":"Model Medical Store",
+            "address":"103 & 104, Brigade Road, Bengaluru, Karnataka 560025"
+        },
+        {
+            "name":"Medical shop",
+            "address":"101, 4th Cross Rd, Govindaraja Nagar Ward, Widia Layout, Attiguppe, Bengaluru, Karnataka 560040"
+        },
+        {
+            "name":"Prasad Medical Stores",
+            "address":"Giridhama Layout, Gattigere, RR Nagar, Bengaluru, Karnataka 560098"
+        }
+    ],
+    "CHENNAI":[
+        {
+            "name":"Bharart vikas generic medical shop",
+            "address":"224/A, R. K, Ramakrishna Mutt Rd, Mandaveli, Chennai, Tamil Nadu 600028"
+        },
+        {
+            "name":"Om Pharmacy",
+            "address":"Shop No, No 48 TNHB Complex, 2, LB Rd, near Telephone Exchange, Adyar, Chennai, Tamil Nadu 600020"
+        },
+        {
+            "name":"Archana Medical Store",
+            "address":"Shop no: 18, Ground Floor, No 174, Arcot Rd, Vadapalani, Chennai, Tamil Nadu 600026"
+        },
+        {
+            "name":"CHENNAI MEDICAL AGENCIES",
+            "address":"No 6 Reddy Street, market, nr. Virugambakkam, Virugambakkam, Chennai, Tamil Nadu 600092"
+        },
+        {
+            "name":"SRI MAHAVEER MEDICAL STORE",
+            "address":"No.7, Palliappan Lane, Entrance Anna Pillai Street, Near, Arunachaleswarar Koil, Behind Hotel Mahasakthi, Sowcarpet, Chennai, Tamil Nadu 600079"
+        }
+    ],
+    "HYDRABAD":[
+        {
+            "name":"Medical stores",
+            "address":"Mathrusree Nagar, Miyapur, Hyderabad, Telangana 500049"
+        },
+        {
+            "name":"Mukesh Medical Hall",
+            "address":"6-3-666/1/2, 3 & 4D, Opp. NIMS Hospital, Punjagutta, to, Khairatabad Rd, Matha Nagar, Somajiguda, Hyderabad, Telangana 500082"
+        },
+        {
+            "name":"SRI SIDDHIVINAYAKA GENERIC MEDICAL STORE",
+            "address":"-5-761/762/4, Shop No. 2, Vittalwadi Cross Road Beside Apco Building, Narayanguda, Hyderabad, Telangana 500029"
+        },
+        {
+            "name":"Metro Medical Store",
+            "address":"Road Number 2, Shawkatnagar, Andhra Pradesh Real Estate, Green Valley, Banjara Hills, Hyderabad, Telangana 500054"
+        },
+        {
+            "name":"Madan Medical Stores",
+            "address":"#10-3-12/4/1, Mehdipatnam, opposite Mehdi Gate, Hyderabad, Telangana 500028"
+        }
+    ]
 }
